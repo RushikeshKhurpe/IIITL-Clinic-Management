@@ -1,0 +1,2 @@
+# _redirects
+/api/* https://iiitl-clinic-backend.onrender.com/:splat 200
